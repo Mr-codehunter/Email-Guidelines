@@ -67,10 +67,18 @@ CORRECT WAY:
 
 + Avoid long and lengthy mail
 
-+ you can use
- -snip
-    -To TRIM the Mail.
++ you can use snip to Trim the Mail.
 
+## Use appropriate punctuation marks at appropriate spacing
+```
++ Give space after using punctuation marks ("." / "," / "?" / ";" etc.)
++ Begin the naming words with CAPITAL letter.
++ Use I instead of "i".
+```
 
+## No ATTACHMENTS!!
++ Attachments to e-mail sent to mailing list is **BAD**
+
+## Don't send Social networking sites/Birthday invites
 
 
