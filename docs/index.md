@@ -56,4 +56,10 @@ Yours friendly"
 
 > It should have Maximum quotes up to 3
 
+## No HTML Messages
+
+Use PLAIN TEXT FORMATTING (PTF)
+
+![image](https://user-images.githubusercontent.com/75418380/218330593-3f8d90b1-8647-4015-8f33-6886d394af05.png)
+
 
