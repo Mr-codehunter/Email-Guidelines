@@ -67,9 +67,10 @@ CORRECT WAY:
 
 + Avoid long and lengthy mail
 
-1. you can use
++ you can use
 - snip
- -To TRIM the Mail.
+  - To TRIM the Mail.
+
 
 
 
