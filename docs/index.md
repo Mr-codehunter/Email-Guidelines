@@ -68,8 +68,8 @@ CORRECT WAY:
 + Avoid long and lengthy mail
 
 + you can use
-- snip
-  - To TRIM the Mail.
+ -snip
+    -To TRIM the Mail.
 
 
 
