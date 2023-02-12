@@ -41,7 +41,10 @@ Yours friendly"
 > Writing E-Mail Messages in all CAPS means that you are yelling or shouting.
 
 ## No TOP Posting
-![TOP POSTING](https://user-images.githubusercontent.com/75418380/218329677-f9a76139-414a-4789-b995-278532885fb3.png)
+> Example of TOP POSTING
+> ![image](https://user-images.githubusercontent.com/75418380/218329831-be9cbbe6-0307-4e3e-a83a-0c85d2aedf0d.png)
+
+
 
 
 
