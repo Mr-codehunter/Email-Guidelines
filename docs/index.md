@@ -42,14 +42,18 @@ Yours friendly"
 
 ## No TOP Posting
 > Example of TOP POSTING
-> ![image](https://user-images.githubusercontent.com/75418380/218329831-be9cbbe6-0307-4e3e-a83a-0c85d2aedf0d.png)
+ ![image](https://user-images.githubusercontent.com/75418380/218329831-be9cbbe6-0307-4e3e-a83a-0c85d2aedf0d.png)
 
-#INSTEAD
+
+**INSTEAD**
 
 ## Use Interleaved, Trimmed Posting!!
 > Example for Corrected way of Posting
-> ![image](https://user-images.githubusercontent.com/75418380/218330015-c076b80e-263e-4401-90b8-30ee2e58a72d.png)
+ ![image](https://user-images.githubusercontent.com/75418380/218330015-c076b80e-263e-4401-90b8-30ee2e58a72d.png)
 
 
+## No Over-Quoting
+
+![image](https://user-images.githubusercontent.com/75418380/218330237-2141f42c-7a33-41d4-9b5c-b608dba9f51b.png)
 
 
