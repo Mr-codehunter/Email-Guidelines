@@ -36,3 +36,12 @@ CORRECT WAY:
 "I am a fresh Computer Science Engineer from Madurai. I saw your and interest in Linux. Really I am proud of your dedication. Keep in touch.
 
 Yours friendly"
+
+## CAPS : Shouting
+> Writing E-Mail Messages in all CAPS means that you are yelling or shouting.
+
+## No TOP Posting
+![TOP POSTING](https://user-images.githubusercontent.com/75418380/218329677-f9a76139-414a-4789-b995-278532885fb3.png)
+
+
+
