@@ -58,8 +58,18 @@ Yours friendly"
 
 ## No HTML Messages
 
-Use PLAIN TEXT FORMATTING (PTF)
+Use PLAIN TEXT FORMATTING (PTF), No RTF.
 
 ![image](https://user-images.githubusercontent.com/75418380/218330593-3f8d90b1-8647-4015-8f33-6886d394af05.png)
+
+
+## TRIM your Mails
+![image](https://user-images.githubusercontent.com/75418380/218330768-2dc6ce8c-3958-4e51-9ab4-dbbc7c722b7b.png)
+
+> Avoid long and lengthy mail
+
+1. you can use 
+> <snip> 
+ To TRIM your Mail.
 
 
