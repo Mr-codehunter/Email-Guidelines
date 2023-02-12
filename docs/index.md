@@ -44,6 +44,11 @@ Yours friendly"
 > Example of TOP POSTING
 > ![image](https://user-images.githubusercontent.com/75418380/218329831-be9cbbe6-0307-4e3e-a83a-0c85d2aedf0d.png)
 
+**INSTEAD**
+
+## Use Interleaved, Trimmed Posting!!
+> Example for Corrected way of Posting
+> ![image](https://user-images.githubusercontent.com/75418380/218330015-c076b80e-263e-4401-90b8-30ee2e58a72d.png)
 
 
 
