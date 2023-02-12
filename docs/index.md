@@ -68,7 +68,7 @@ Use PLAIN TEXT FORMATTING (PTF), No RTF.
 
 > Avoid long and lengthy mail
 
-1. you can use  **<snip>** 
+1. you can use  **snip**
  To TRIM your Mail.
 
 
