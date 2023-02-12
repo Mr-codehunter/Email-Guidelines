@@ -53,11 +53,11 @@ CORRECT WAY:
 
 ![image](https://user-images.githubusercontent.com/75418380/218330237-2141f42c-7a33-41d4-9b5c-b608dba9f51b.png)
 
-It should have Maximum quotes up to 3
++ It should have Maximum quotes up to 3
 
 ## No HTML Messages
 
-Use PLAIN TEXT FORMATTING (PTF), No RTF.
++ Use PLAIN TEXT FORMATTING (PTF), No RTF.
 
 ![image](https://user-images.githubusercontent.com/75418380/218330593-3f8d90b1-8647-4015-8f33-6886d394af05.png)
 
@@ -65,7 +65,7 @@ Use PLAIN TEXT FORMATTING (PTF), No RTF.
 ## TRIM your Mails
 ![image](https://user-images.githubusercontent.com/75418380/218330768-2dc6ce8c-3958-4e51-9ab4-dbbc7c722b7b.png)
 
-> Avoid long and lengthy mail
++ Avoid long and lengthy mail
 
 1. you can use
 - snip
