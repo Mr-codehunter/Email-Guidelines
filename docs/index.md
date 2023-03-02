@@ -79,6 +79,10 @@ CORRECT WAY:
 ## No ATTACHMENTS!!
 + Attachments to e-mail sent to mailing list is **BAD**
 
-## Don't send Social networking sites/Birthday invites
+## Don't send Social Networking sites/Birthday invites
+
+## Add Sign Dash 
++ Through Sign Dash you can tell your name and provide your personal profile and also you can write what's on your mind that 
+you want to share to everyone else.
 
 
