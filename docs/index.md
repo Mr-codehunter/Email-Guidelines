@@ -85,4 +85,15 @@ CORRECT WAY:
 + Through Sign Dash you can tell your name and provide your personal profile and also you can write what's on your mind that 
 you want to share to everyone else.
 
+## HOW TO ADD SIGN DASH IN YOUR MAIL?
++ This is very simple process which you can easily add and save your Sign Dash for forever or you can change it in future whenever you desire to do so.
+ - GO to "Compose" new Email
+ - Click on "PEN" like symbol below near the send button
+ - Now click on Manage signature which will take you to setting page 
+ 
+ - ![Screenshot from 2023-03-02 17-12-46](https://user-images.githubusercontent.com/75418380/222419745-36fe7d3e-079b-4b22-be66-ba954b10b72a.png)
+ - In "General" go to signature and you can now add signature here.
+ - ![Screenshot from 2023-03-02 17-17-52](https://user-images.githubusercontent.com/75418380/222420297-4c9b9be7-0fb1-411d-8593-55c20b691b57.png)
+
+
 
