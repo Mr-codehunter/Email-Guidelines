@@ -96,4 +96,12 @@ you want to share to everyone else.
  - ![Screenshot from 2023-03-02 17-17-52](https://user-images.githubusercontent.com/75418380/222420297-4c9b9be7-0fb1-411d-8593-55c20b691b57.png)
 
 
+## Why Mailling
+```
+Through Mail you can express yourself to every member in the group at the same time.
+You can also give your opinion on any topic.
+THis is the platform where you can grow professionally and personally.
+You can share your knowlege to everyone and learn from others too.
+SO, Keep up with mail and live Report.
 
+```
