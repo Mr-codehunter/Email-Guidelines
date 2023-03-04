@@ -105,9 +105,20 @@ You can share your knowlege to everyone and learn from others too.
 SO, Keep up with mail and live Report.
 
 ```
-## correct mistakes in the sentence
-+ There are several software tools that are used to correct mistakes in a sentence. Most popular tool is **Grammarly**.
+## Correct mistakes in the sentence
+ There are several software tools that are used to correct mistakes in a sentence:
++ **Gmail Inbuilt Feature** : There is inbuilt feature of gmail which suggest correct sentence structure.
+<img width="662" alt="image" src="https://user-images.githubusercontent.com/109460490/222879848-ce81059a-ac25-476a-a539-df378bcd81f3.png">
+If you are unable to see this feature , go to gmail settings and enable all these settings:
+
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/109460490/222880124-18431668-9dcb-4156-8c3b-4e43bdeacb0d.png">
+
+
 + **Grammarly:** This software is a writing assistant that can help you improve your grammar, spelling, and sentence structure. It has both free and paid versions.
-+ Grammarly runs on backend whenever we write and give us suggestions of correct word or better structure of sentence.
-<img width="678" alt="image" src="https://user-images.githubusercontent.com/109460490/222877660-0205c868-700d-4209-a239-53509a206d2f.png">
- 
+ Grammarly runs on backend whenever we write and give us suggestions of correct word or better structure of sentence.
+<img width="662" alt="image" src="https://user-images.githubusercontent.com/109460490/222878128-053a6932-990d-460c-92ff-63dddb7c7f86.png">
+
+
+
+## 
+
