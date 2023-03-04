@@ -120,5 +120,15 @@ If you are unable to see this feature , go to gmail settings and enable all thes
 
 
 
-## 
+## Mailing on Android 
+Searched so far but Gmail on android has no feature to send mail in plain text mode. But there are several ways to switch to PTM:
++ Use desktop mode of Gmail but it is not an effeciant way for mailing on android.
++ There are several alternative email clients you can use:
+  + **K-9 app:** K-9 Mail is a free and open-source email client that supports plain text mode. It's lightweight and easy to use, with features like multi-account         support, search functionality, and customizable notifications.
+  + Install K-9 app and register your Gmail here.
+  + Allow access to your mails.
+  + Go to sidebar, In dropdown menu choose settings.
+  + Go to your account and choose General settings .
+  + Select Plain Text Mode as default.
++ But this is not the one Protonmail, Bluemail, Aquamail, Fairmail. Explore these alternative , we can replace K-9 if we found other one better.
 
